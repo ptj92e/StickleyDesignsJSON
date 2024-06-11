@@ -1,3 +1,20 @@
 {
-    "name": "prod home"
+    "accolades": [
+      {
+        "name": "John Smith",
+        "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nisl condimentum id venenatis a condimentum vitae."
+      },
+      {
+        "name": "Jill Smith",
+        "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nisl condimentum id venenatis a condimentum vitae. Egestas pretium aenean pharetra magna ac placerat."
+      },
+      {
+        "name": "Me",
+        "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nisl condimentum id venenatis a condimentum vitae."
+      },
+      {
+        "name": "You",
+        "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nisl condimentum id venenatis a condimentum vitae. Egestas pretium aenean pharetra magna ac placerat."
+      }
+    ]
 }
